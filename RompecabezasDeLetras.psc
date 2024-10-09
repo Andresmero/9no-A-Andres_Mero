@@ -2,7 +2,7 @@ Algoritmo RompecabezasDeLetras
 	
 	ConstTamano <- 10 
 	ConstNumLetras <- 5 
-	MatrizTablero<-[Tamaño];
+	MatrizTablero<-[TamaÃ±o];
 	Cadena=Letras
 	Entero=0
 	
@@ -43,7 +43,7 @@ Algoritmo RompecabezasDeLetras
 			
 			// Verificar si se encontraron todas las letras
 			Si Puntos = NumLetras Entonces
-				Escribir "¡Felicidades! Has encontrado todas las letras."
+				Escribir "Â¡Felicidades! Has encontrado todas las letras."
 			FinSi
 			Esperarsegundos<-(100)
 FinAlgoritmo
